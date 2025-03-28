@@ -1,0 +1,6 @@
+Feature Size: 5, Accuracy: 0.9855, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 10, Accuracy: 0.9855, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 15, Accuracy: 0.9855, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 20, Accuracy: 0.9855, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 25, Accuracy: 0.9710, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 30, Accuracy: 0.9855, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}

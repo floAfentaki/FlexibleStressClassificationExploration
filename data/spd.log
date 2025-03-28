@@ -1,0 +1,16 @@
+Processing dataset: spd with window size: 1 (64 samples)
+Processing spd.csv
+Statistics saved to spd_statistics_64.csv
+MLP Accuracy: 0.7726447780894242
+Processing dataset: spd with window size: 1.5 (96 samples)
+Processing spd.csv
+Statistics saved to spd_statistics_96.csv
+MLP Accuracy: 0.9111870196413322
+Processing dataset: spd with window size: 3 (192 samples)
+Processing spd.csv
+Statistics saved to spd_statistics_192.csv
+MLP Accuracy: 0.9235384740128112
+Processing dataset: spd with window size: 5 (320 samples)
+Processing spd.csv
+Statistics saved to spd_statistics_320.csv
+MLP Accuracy: 0.7239895697522816

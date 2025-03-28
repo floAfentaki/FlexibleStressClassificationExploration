@@ -1,0 +1,54 @@
+Feature Size: 5, Sparsity Ratio: 0.2
+Quantized Accuracy in Fixed Point: 0.7265625
+
+Feature Size: 5, Sparsity Ratio: 0.5
+Quantized Accuracy in Fixed Point: 0.5221354166666666
+
+Feature Size: 5, Sparsity Ratio: 0.9
+Quantized Accuracy in Fixed Point: 0.15104166666666666
+
+Feature Size: 10, Sparsity Ratio: 0.2
+Quantized Accuracy in Fixed Point: 0.265625
+
+Feature Size: 10, Sparsity Ratio: 0.5
+Quantized Accuracy in Fixed Point: 0.65625
+
+Feature Size: 10, Sparsity Ratio: 0.9
+Quantized Accuracy in Fixed Point: 0.15104166666666666
+
+Feature Size: 15, Sparsity Ratio: 0.2
+Quantized Accuracy in Fixed Point: 0.8255208333333334
+
+Feature Size: 15, Sparsity Ratio: 0.5
+Quantized Accuracy in Fixed Point: 0.5559895833333334
+
+Feature Size: 15, Sparsity Ratio: 0.9
+Quantized Accuracy in Fixed Point: 0.3385416666666667
+
+Feature Size: 20, Sparsity Ratio: 0.2
+Quantized Accuracy in Fixed Point: 0.24479166666666666
+
+Feature Size: 20, Sparsity Ratio: 0.5
+Quantized Accuracy in Fixed Point: 0.4479166666666667
+
+Feature Size: 20, Sparsity Ratio: 0.9
+Quantized Accuracy in Fixed Point: 0.3268229166666667
+
+Feature Size: 25, Sparsity Ratio: 0.2
+Quantized Accuracy in Fixed Point: 0.9166666666666666
+
+Feature Size: 25, Sparsity Ratio: 0.5
+Quantized Accuracy in Fixed Point: 0.22005208333333334
+
+Feature Size: 25, Sparsity Ratio: 0.9
+Quantized Accuracy in Fixed Point: 0.16145833333333334
+
+Feature Size: 30, Sparsity Ratio: 0.2
+Quantized Accuracy in Fixed Point: 0.9466145833333334
+
+Feature Size: 30, Sparsity Ratio: 0.5
+Quantized Accuracy in Fixed Point: 0.75
+
+Feature Size: 30, Sparsity Ratio: 0.9
+Quantized Accuracy in Fixed Point: 0.15104166666666666
+

@@ -1,0 +1,16 @@
+Processing dataset: DriveDB with window size: 1 (16 samples)
+Processing DriveDB.csv
+Statistics saved to DriveDB_statistics_16.csv
+MLP Accuracy: 0.558180227471566
+Processing dataset: DriveDB with window size: 1.5 (24 samples)
+Processing DriveDB.csv
+Statistics saved to DriveDB_statistics_24.csv
+MLP Accuracy: 0.9023233760075865
+Processing dataset: DriveDB with window size: 3 (48 samples)
+Processing DriveDB.csv
+Statistics saved to DriveDB_statistics_48.csv
+MLP Accuracy: 0.872992863514719
+Processing dataset: DriveDB with window size: 5 (80 samples)
+Processing DriveDB.csv
+Statistics saved to DriveDB_statistics_80.csv
+MLP Accuracy: 0.9154041800287516

@@ -1,0 +1,6 @@
+Feature Size: 5, Accuracy: 0.7984, Best Params: {'criterion': 'entropy', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 10, Accuracy: 0.7823, Best Params: {'criterion': 'gini', 'min_samples_leaf': 3, 'min_samples_split': 3, 'splitter': 'random'}
+Feature Size: 15, Accuracy: 0.8226, Best Params: {'criterion': 'entropy', 'min_samples_leaf': 1, 'min_samples_split': 7, 'splitter': 'random'}
+Feature Size: 20, Accuracy: 0.9274, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 25, Accuracy: 0.9274, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}
+Feature Size: 30, Accuracy: 0.9435, Best Params: {'criterion': 'gini', 'min_samples_leaf': 1, 'min_samples_split': 2, 'splitter': 'best'}

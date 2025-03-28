@@ -1,0 +1,4 @@
+--Mapping default work directory
+WORK > WORK_LIB
+WORK_LIB : ./work_lib
+

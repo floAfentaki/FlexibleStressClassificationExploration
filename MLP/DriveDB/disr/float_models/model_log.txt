@@ -1,0 +1,6 @@
+Feature Size: 5, Accuracy: 0.9394, Best Params: {'activation': 'relu', 'alpha': 1e-05, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+Feature Size: 10, Accuracy: 0.9732, Best Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+Feature Size: 15, Accuracy: 0.9852, Best Params: {'activation': 'relu', 'alpha': 1e-05, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+Feature Size: 20, Accuracy: 0.9923, Best Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+Feature Size: 25, Accuracy: 0.9971, Best Params: {'activation': 'relu', 'alpha': 1e-05, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+Feature Size: 30, Accuracy: 0.9942, Best Params: {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}

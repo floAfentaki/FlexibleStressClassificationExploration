@@ -1,0 +1,16 @@
+Processing dataset: AffectiveROAD with window size: 1 (64 samples)
+Processing AffectiveROAD.csv
+Statistics saved to AffectiveROAD_statistics_64.csv
+MLP Accuracy: 0.7057291666666666
+Processing dataset: AffectiveROAD with window size: 1.5 (96 samples)
+Processing AffectiveROAD.csv
+Statistics saved to AffectiveROAD_statistics_96.csv
+MLP Accuracy: 0.8468233246301131
+Processing dataset: AffectiveROAD with window size: 3 (192 samples)
+Processing AffectiveROAD.csv
+Statistics saved to AffectiveROAD_statistics_192.csv
+MLP Accuracy: 0.8872549019607843
+Processing dataset: AffectiveROAD with window size: 5 (320 samples)
+Processing AffectiveROAD.csv
+Statistics saved to AffectiveROAD_statistics_320.csv
+MLP Accuracy: 0.8524514338575393

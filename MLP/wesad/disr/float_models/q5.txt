@@ -1,0 +1,74 @@
+Testing quantization_bits=4, integer_bits=0, relu_bits=4, relu_int=1, activation_type=quantized_relu
+2024-09-11 15:56:58.000944: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+Accuracy: 53.23%
+Testing quantization_bits=4, integer_bits=0, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 46.77%
+Testing quantization_bits=4, integer_bits=0, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 46.77%
+Testing quantization_bits=4, integer_bits=0, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 55.65%
+Testing quantization_bits=4, integer_bits=1, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 52.42%
+Testing quantization_bits=4, integer_bits=1, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 45.97%
+Testing quantization_bits=4, integer_bits=1, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 62.10%
+Testing quantization_bits=4, integer_bits=1, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 48.39%
+Testing quantization_bits=4, integer_bits=2, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 50.00%
+Testing quantization_bits=4, integer_bits=2, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 54.03%
+Testing quantization_bits=4, integer_bits=2, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 50.81%
+Testing quantization_bits=4, integer_bits=2, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 59.68%
+Testing quantization_bits=6, integer_bits=0, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 50.81%
+Testing quantization_bits=6, integer_bits=0, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 51.61%
+Testing quantization_bits=6, integer_bits=0, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 51.61%
+Testing quantization_bits=6, integer_bits=0, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 45.97%
+Testing quantization_bits=6, integer_bits=1, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 47.58%
+Testing quantization_bits=6, integer_bits=1, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 49.19%
+Testing quantization_bits=6, integer_bits=1, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 47.58%
+Testing quantization_bits=6, integer_bits=1, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 50.00%
+Testing quantization_bits=6, integer_bits=2, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 41.94%
+Testing quantization_bits=6, integer_bits=2, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 50.00%
+Testing quantization_bits=6, integer_bits=2, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 54.84%
+Testing quantization_bits=6, integer_bits=2, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 45.16%
+Testing quantization_bits=8, integer_bits=0, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 48.39%
+Testing quantization_bits=8, integer_bits=0, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 50.00%
+Testing quantization_bits=8, integer_bits=0, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 54.03%
+Testing quantization_bits=8, integer_bits=0, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 44.35%
+Testing quantization_bits=8, integer_bits=1, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 50.81%
+Testing quantization_bits=8, integer_bits=1, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 49.19%
+Testing quantization_bits=8, integer_bits=1, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 50.81%
+Testing quantization_bits=8, integer_bits=1, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 55.65%
+Testing quantization_bits=8, integer_bits=2, relu_bits=4, relu_int=1, activation_type=quantized_relu
+Accuracy: 53.23%
+Testing quantization_bits=8, integer_bits=2, relu_bits=6, relu_int=2, activation_type=quantized_relu
+Accuracy: 49.19%
+Testing quantization_bits=8, integer_bits=2, relu_bits=8, relu_int=2, activation_type=quantized_relu
+Accuracy: 50.00%
+Testing quantization_bits=8, integer_bits=2, relu_bits=8, relu_int=3, activation_type=quantized_relu
+Accuracy: 50.00%
+Best quantization_bits=4, integer_bits=1, relu_bits=8, relu_int=2, activation_type=quantized_relu with accuracy=62.10%

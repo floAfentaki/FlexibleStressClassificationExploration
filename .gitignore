@@ -1,0 +1,10 @@
+0_template_pragmatic/alib-52
+5/
+CNN
+CNN_changes
+moving_avg/
+utility/
+__pycache__
+overall
+*/*/*/*_synth
+*.h5

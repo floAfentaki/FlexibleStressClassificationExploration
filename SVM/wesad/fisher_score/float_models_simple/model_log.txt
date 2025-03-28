@@ -1,0 +1,6 @@
+Feature Size: 5, Accuracy: 0.7016, Best Params: {'C': 1.4142135623730951, 'gamma': 2e-05, 'kernel': 'linear'}
+Feature Size: 10, Accuracy: 0.6935, Best Params: {'C': 11.313708498984761, 'gamma': 2e-05, 'kernel': 'linear'}
+Feature Size: 15, Accuracy: 0.7419, Best Params: {'C': 2000.0, 'gamma': 2e-05, 'kernel': 'linear'}
+Feature Size: 20, Accuracy: 0.8387, Best Params: {'C': 11.313708498984761, 'gamma': 2e-05, 'kernel': 'linear'}
+Feature Size: 25, Accuracy: 0.8387, Best Params: {'C': 11.313708498984761, 'gamma': 2e-05, 'kernel': 'linear'}
+Feature Size: 30, Accuracy: 0.8387, Best Params: {'C': 11.313708498984761, 'gamma': 2e-05, 'kernel': 'linear'}
