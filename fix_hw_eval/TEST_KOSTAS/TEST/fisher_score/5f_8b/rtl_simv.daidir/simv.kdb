@@ -1,0 +1,23 @@
+rc file Version 1.0
+
+[Design]
+COMPILE_PATH=/home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b
+VCS_HOME=/usr/local/eda/synopsys/vcs/vcs/T-2022.06-SP1-1
+VERDI_HOME=/usr/local/eda/synopsys/verdi/verdi/T-2022.06-SP1-1
+SystemC=FALSE
+UUM=TRUE
+KDB=TRUE
+USE_NOVAS_HOME=FALSE
+COSIM=FALSE
+SYNOPSYS_SIM_SETUP=/home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/synopsys_sim.setup 
+TOP=top_tb 
+OPTION=-ssv -ssy 
+ELAB_OPTION=-ssv -ssy 
+ELAB=TRUE
+SIMV_WRAPPER=FALSE
+[vcs]
+RUN_ELABCOM=unset TURBO_LOG_DIR ;\rm -rf /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir/elabcomLog ;/usr/local/eda/synopsys/vcs/vcs/T-2022.06-SP1-1/linux64/bin/elabcom -logdir /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir/elabcomLog  -simvdaidir /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir  -elab /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir/kdb -simflow -topfile /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir/.elabcomTopFile -ssv -ssy +disable_message+C00388+C00389  >& /dev/null  && echo Success >& /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir/.elabcomReport || echo Fail >& /home/flo/Documents/confs/DATE25/evaluation/TEST_KOSTAS/5f_8b/rtl_simv.daidir/.elabcomReport
+
+[Value]
+WREALX=ffff534e50535f58
+WREALZ=ffff534e50535f5a
